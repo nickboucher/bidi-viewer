@@ -22,3 +22,7 @@ To use this utility, paste newline-separated URLs pointing to raw source code in
 [`https://raw.githubusercontent.com/nickboucher/trojan-source/main/C/commenting-out.c`](https://raw.githubusercontent.com/nickboucher/trojan-source/main/C/commenting-out.c)
 
 If you paste multiple URLs, you can page through them with the left and right arrow keys.
+
+Here's an example of what the above URL looks like in this tool:
+
+![Bidi Viewer Screenshot](screenshot.png?raw=true "Bidi Viewer")
