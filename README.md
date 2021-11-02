@@ -1,6 +1,6 @@
 # Bidi Viewer
 
-Bidi Viewer is a React-based web utility that can be used to fetch source code files from anywhere online and scan for Bidi characters. It will display any line of code containing Bidi characters in its originaly encoded form, and again with Bidi characters escaped for comparison.
+Bidi Viewer is a React-based web utility that can be used to fetch source code files from anywhere online and scan for Bidi characters. It will display any line of code containing Bidi characters in its originally encoded form, and again with Bidi characters escaped for comparison.
 
 This can be used to help identify the attacks described in [*Trojan Source: Invisible Vulnerabilities*](https://trojansource.codes).
 
